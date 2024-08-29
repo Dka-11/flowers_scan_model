@@ -21,7 +21,7 @@ Classify Image of the Flowers
 
 **Parameters:**
 
-- `file`: The image file of the face to register.
+- `file`: The image file of the flowers to classify.
 
 **Response:**
 
